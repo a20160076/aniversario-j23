@@ -1,0 +1,37 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #002379;
+}
+p{
+  color: #e8e8e8;
+  font-size: 80px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+.mensaje p{
+  font-family: 'Courier New', Courier, monospace;
+  color: yellow;
+}
+
+img{
+  height: 120px;
+  margin: 30px;
+}
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.encabezado img{
+  margin: 30px;
+  max-height: 150px;
+    min-heigth: 75px;
+}
+.pastel img{
+  margin: 30px;
+  height: 350px;
+}
